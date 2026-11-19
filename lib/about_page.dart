@@ -12,7 +12,7 @@ class AboutPage extends StatelessWidget {
           'Tentang Aplikasi',
           style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
         ),
-        backgroundColor: Colors.deecpPurple,
+        backgroundColor: Colors.deepPurple,
         iconTheme: const IconThemeData(color: Colors.white),
       ),
       body: Center(
